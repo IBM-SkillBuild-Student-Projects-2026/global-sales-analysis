@@ -1,0 +1,121 @@
+order_id,date,customer_name,age,gender,region,country,product,category,units,unit_price,total_sales,discount_pct,rating
+1001,2023-01-03,Alice Johnson,28,Female,North America,USA,Laptop Pro 15,Electronics,2,1200,2400,10,4.5
+1002,2023-01-05,Mohammed Al-Rashid,35,Male,Middle East,UAE,Wireless Earbuds,Electronics,3,85,255,5,4.2
+1003,2023-01-07,Priya Sharma,24,Female,Asia,India,Office Chair,Furniture,1,320,320,0,3.8
+1004,2023-01-09,Carlos Mendez,42,Male,South America,Brazil,Mechanical Keyboard,Accessories,4,95,380,15,4.7
+1005,2023-01-12,Emma Wilson,31,Female,Europe,UK,4K Monitor,Electronics,1,450,450,0,4.6
+1006,2023-01-14,Zhang Wei,27,Male,Asia,China,Gaming Mouse,Accessories,5,60,300,10,4.3
+1007,2023-01-17,Sophie Dubois,38,Female,Europe,France,Standing Desk,Furniture,1,680,680,5,4.1
+1008,2023-01-19,James Okafor,29,Male,Africa,Nigeria,Tablet 10",Electronics,2,350,700,0,3.9
+1009,2023-01-22,Ana Lima,33,Female,South America,Brazil,Webcam HD,Accessories,3,75,225,0,4.4
+1010,2023-01-25,Liam Chen,45,Male,North America,Canada,Laptop Pro 15,Electronics,1,1200,1200,10,4.5
+1011,2023-01-28,Fatima Al-Zahra,26,Female,Middle East,Saudi Arabia,Smartphone X12,Electronics,1,999,999,0,4.8
+1012,2023-02-01,Noah Patel,36,Male,Asia,India,Bookshelf,Furniture,2,180,360,0,3.7
+1013,2023-02-04,Olivia Brown,22,Female,North America,USA,Wireless Mouse,Accessories,6,45,270,5,4.0
+1014,2023-02-06,Kenji Tanaka,41,Male,Asia,Japan,Laptop Pro 15,Electronics,3,1200,3600,10,4.5
+1015,2023-02-09,Isabella Rossi,30,Female,Europe,Italy,Ergonomic Chair,Furniture,2,420,840,8,4.2
+1016,2023-02-11,David Nkosi,34,Male,Africa,South Africa,4K Monitor,Electronics,1,450,450,0,4.6
+1017,2023-02-14,Maria Garcia,28,Female,South America,Argentina,Mechanical Keyboard,Accessories,2,95,190,0,4.7
+1018,2023-02-16,Ethan White,39,Male,North America,USA,Standing Desk,Furniture,1,680,680,5,4.1
+1019,2023-02-19,Aisha Diallo,25,Female,Africa,Ghana,Wireless Earbuds,Electronics,4,85,340,5,4.2
+1020,2023-02-22,Lucas Hoffman,43,Male,Europe,Germany,Gaming PC,Electronics,1,1800,1800,0,4.9
+1021,2023-02-25,Mei Lin,27,Female,Asia,China,Office Chair,Furniture,3,320,960,10,3.8
+1022,2023-02-28,Oliver Smith,32,Male,Europe,UK,Webcam HD,Accessories,2,75,150,0,4.4
+1023,2023-03-03,Valentina Cruz,37,Female,South America,Colombia,Smartphone X12,Electronics,2,999,1998,0,4.8
+1024,2023-03-06,Hassan Ibrahim,44,Male,Middle East,Egypt,Tablet 10",Electronics,3,350,1050,5,3.9
+1025,2023-03-09,Chloe Martin,23,Female,Europe,France,Wireless Mouse,Accessories,8,45,360,5,4.0
+1026,2023-03-12,Raj Krishnan,31,Male,Asia,India,Gaming Mouse,Accessories,5,60,300,0,4.3
+1027,2023-03-15,Amelia Turner,29,Female,North America,USA,4K Monitor,Electronics,2,450,900,10,4.6
+1028,2023-03-18,Yuki Nakamura,26,Male,Asia,Japan,Bookshelf,Furniture,1,180,180,0,3.7
+1029,2023-03-21,Nia Osei,35,Female,Africa,Kenya,Laptop Pro 15,Electronics,1,1200,1200,0,4.5
+1030,2023-03-24,Benjamin Lee,40,Male,North America,Canada,Ergonomic Chair,Furniture,4,420,1680,8,4.2
+1031,2023-03-27,Sara Johansson,28,Female,Europe,Sweden,Gaming PC,Electronics,1,1800,1800,0,4.9
+1032,2023-03-30,Diego Torres,33,Male,South America,Peru,Webcam HD,Accessories,3,75,225,0,4.4
+1033,2023-04-02,Layla Hassan,30,Female,Middle East,UAE,Mechanical Keyboard,Accessories,2,95,190,5,4.7
+1034,2023-04-05,Samuel Adekunle,27,Male,Africa,Nigeria,Wireless Earbuds,Electronics,5,85,425,5,4.2
+1035,2023-04-08,Hana Kim,24,Female,Asia,South Korea,Standing Desk,Furniture,1,680,680,0,4.1
+1036,2023-04-11,Jack Williams,38,Male,North America,USA,Smartphone X12,Electronics,1,999,999,0,4.8
+1037,2023-04-14,Chiara Ferrari,42,Female,Europe,Italy,Tablet 10",Electronics,2,350,700,5,3.9
+1038,2023-04-17,Abdul Rahman,36,Male,Middle East,Qatar,Gaming PC,Electronics,2,1800,3600,0,4.9
+1039,2023-04-20,Mia Andersen,25,Female,Europe,Denmark,Office Chair,Furniture,1,320,320,0,3.8
+1040,2023-04-23,Thabo Molefe,31,Male,Africa,South Africa,Wireless Mouse,Accessories,4,45,180,5,4.0
+1041,2023-04-26,Li Xiao,29,Female,Asia,China,Laptop Pro 15,Electronics,2,1200,2400,10,4.5
+1042,2023-04-29,Ryan Murphy,45,Male,North America,USA,Bookshelf,Furniture,3,180,540,0,3.7
+1043,2023-05-02,Zara Ahmed,26,Female,Asia,Pakistan,4K Monitor,Electronics,1,450,450,0,4.6
+1044,2023-05-05,Pierre Lefebvre,39,Male,Europe,France,Gaming Mouse,Accessories,6,60,360,10,4.3
+1045,2023-05-08,Camila Ortega,34,Female,South America,Chile,Ergonomic Chair,Furniture,2,420,840,8,4.2
+1046,2023-05-11,Michael Johnson,41,Male,North America,USA,Gaming PC,Electronics,1,1800,1800,0,4.9
+1047,2023-05-14,Amara Toure,23,Female,Africa,Senegal,Webcam HD,Accessories,2,75,150,0,4.4
+1048,2023-05-17,Hiroshi Yamamoto,37,Male,Asia,Japan,Smartphone X12,Electronics,3,999,2997,0,4.8
+1049,2023-05-20,Freya Nielsen,28,Female,Europe,Norway,Mechanical Keyboard,Accessories,3,95,285,0,4.7
+1050,2023-05-23,Omar Farooq,32,Male,Middle East,Jordan,Tablet 10",Electronics,2,350,700,5,3.9
+1051,2023-05-26,Grace Okonkwo,30,Female,Africa,Ghana,Laptop Pro 15,Electronics,1,1200,1200,0,4.5
+1052,2023-05-29,Nathan Clark,44,Male,North America,Canada,Standing Desk,Furniture,1,680,680,5,4.1
+1053,2023-06-01,Yuna Park,27,Female,Asia,South Korea,Wireless Earbuds,Electronics,4,85,340,5,4.2
+1054,2023-06-04,Marco Bianchi,35,Male,Europe,Italy,Office Chair,Furniture,2,320,640,0,3.8
+1055,2023-06-07,Daniela Reyes,29,Female,South America,Mexico,Gaming Mouse,Accessories,5,60,300,0,4.3
+1056,2023-06-10,Kwame Asante,38,Male,Africa,Ghana,4K Monitor,Electronics,1,450,450,0,4.6
+1057,2023-06-13,Sophia Brown,24,Female,North America,USA,Ergonomic Chair,Furniture,3,420,1260,8,4.2
+1058,2023-06-16,Ali Hassan,43,Male,Middle East,UAE,Laptop Pro 15,Electronics,2,1200,2400,10,4.5
+1059,2023-06-19,Elena Volkova,31,Female,Europe,Russia,Bookshelf,Furniture,2,180,360,0,3.7
+1060,2023-06-22,Tom Baker,26,Male,North America,USA,Wireless Mouse,Accessories,7,45,315,5,4.0
+1061,2023-06-25,Sana Malik,33,Female,Asia,Pakistan,Gaming PC,Electronics,1,1800,1800,0,4.9
+1062,2023-06-28,Felix Wagner,40,Male,Europe,Germany,Webcam HD,Accessories,3,75,225,0,4.4
+1063,2023-07-01,Adaeze Eze,28,Female,Africa,Nigeria,Smartphone X12,Electronics,1,999,999,0,4.8
+1064,2023-07-04,Lucas Pereira,36,Male,South America,Brazil,Mechanical Keyboard,Accessories,4,95,380,15,4.7
+1065,2023-07-07,Ingrid Larsson,25,Female,Europe,Sweden,Tablet 10",Electronics,2,350,700,0,3.9
+1066,2023-07-10,Ravi Verma,42,Male,Asia,India,Standing Desk,Furniture,1,680,680,0,4.1
+1067,2023-07-13,Hannah Scott,30,Female,North America,USA,4K Monitor,Electronics,1,450,450,10,4.6
+1068,2023-07-16,Khalid Al-Mansouri,34,Male,Middle East,Saudi Arabia,Gaming PC,Electronics,1,1800,1800,0,4.9
+1069,2023-07-19,Nadia Petrov,27,Female,Europe,Russia,Wireless Earbuds,Electronics,6,85,510,5,4.2
+1070,2023-07-22,Emeka Chukwu,39,Male,Africa,Nigeria,Office Chair,Furniture,2,320,640,0,3.8
+1071,2023-07-25,Charlotte Davis,23,Female,North America,Canada,Gaming Mouse,Accessories,4,60,240,0,4.3
+1072,2023-07-28,Park Joon,31,Male,Asia,South Korea,Laptop Pro 15,Electronics,1,1200,1200,10,4.5
+1073,2023-08-01,Valentina Esposito,37,Female,Europe,Italy,Ergonomic Chair,Furniture,1,420,420,8,4.2
+1074,2023-08-04,Amira Benali,26,Female,Africa,Algeria,Webcam HD,Accessories,2,75,150,0,4.4
+1075,2023-08-07,William Thompson,44,Male,North America,USA,Bookshelf,Furniture,4,180,720,0,3.7
+1076,2023-08-10,Yuki Sato,28,Female,Asia,Japan,Wireless Mouse,Accessories,5,45,225,5,4.0
+1077,2023-08-13,Ivan Petrov,35,Male,Europe,Ukraine,Smartphone X12,Electronics,2,999,1998,0,4.8
+1078,2023-08-16,Fatou Diop,29,Female,Africa,Senegal,Mechanical Keyboard,Accessories,3,95,285,0,4.7
+1079,2023-08-19,Sebastián Gomez,41,Male,South America,Argentina,Gaming PC,Electronics,1,1800,1800,0,4.9
+1080,2023-08-22,Mei Zhang,32,Female,Asia,China,4K Monitor,Electronics,2,450,900,10,4.6
+1081,2023-08-25,Connor Walsh,27,Male,North America,USA,Tablet 10",Electronics,3,350,1050,5,3.9
+1082,2023-08-28,Leila Ahmadi,38,Female,Middle East,Iran,Standing Desk,Furniture,1,680,680,5,4.1
+1083,2023-09-01,Kofi Mensah,24,Male,Africa,Ghana,Laptop Pro 15,Electronics,2,1200,2400,0,4.5
+1084,2023-09-04,Astrid Hansen,33,Female,Europe,Denmark,Wireless Earbuds,Electronics,5,85,425,5,4.2
+1085,2023-09-07,Gabriel Santos,46,Male,South America,Brazil,Office Chair,Furniture,3,320,960,10,3.8
+1086,2023-09-10,Tina Wang,30,Female,Asia,China,Gaming Mouse,Accessories,6,60,360,0,4.3
+1087,2023-09-13,Aaron Mitchell,36,Male,North America,USA,Ergonomic Chair,Furniture,2,420,840,8,4.2
+1088,2023-09-16,Yasmin Al-Farsi,25,Female,Middle East,Oman,Gaming PC,Electronics,1,1800,1800,0,4.9
+1089,2023-09-19,Luca Romano,43,Male,Europe,Italy,Webcam HD,Accessories,4,75,300,0,4.4
+1090,2023-09-22,Zainab Musa,28,Female,Africa,Nigeria,Smartphone X12,Electronics,1,999,999,0,4.8
+1091,2023-09-25,Ethan Brooks,31,Male,North America,Canada,Bookshelf,Furniture,2,180,360,0,3.7
+1092,2023-09-28,Hyun-Ji Lee,27,Female,Asia,South Korea,Wireless Mouse,Accessories,8,45,360,5,4.0
+1093,2023-10-01,Rafael Alves,39,Male,South America,Brazil,4K Monitor,Electronics,1,450,450,0,4.6
+1094,2023-10-04,Marta Kowalski,34,Female,Europe,Poland,Mechanical Keyboard,Accessories,3,95,285,0,4.7
+1095,2023-10-07,Jomo Kamau,22,Male,Africa,Kenya,Tablet 10",Electronics,2,350,700,5,3.9
+1096,2023-10-10,Preethi Nair,29,Female,Asia,India,Laptop Pro 15,Electronics,1,1200,1200,10,4.5
+1097,2023-10-13,Dylan Evans,45,Male,North America,USA,Gaming PC,Electronics,2,1800,3600,0,4.9
+1098,2023-10-16,Nour El-Din,37,Female,Middle East,Lebanon,Standing Desk,Furniture,1,680,680,0,4.1
+1099,2023-10-19,Bjorn Lindqvist,32,Male,Europe,Sweden,Wireless Earbuds,Electronics,4,85,340,5,4.2
+1100,2023-10-22,Chiamaka Obi,26,Female,Africa,Nigeria,Office Chair,Furniture,1,320,320,0,3.8
+1101,2023-10-25,Aaron Kim,40,Male,Asia,South Korea,Gaming Mouse,Accessories,5,60,300,10,4.3
+1102,2023-10-28,Isabela Ferreira,28,Female,South America,Brazil,Ergonomic Chair,Furniture,2,420,840,8,4.2
+1103,2023-11-01,Chris Taylor,35,Male,North America,USA,Webcam HD,Accessories,3,75,225,0,4.4
+1104,2023-11-04,Amina Diallo,23,Female,Africa,Mali,Smartphone X12,Electronics,1,999,999,0,4.8
+1105,2023-11-07,Viktor Kovacs,41,Male,Europe,Hungary,Bookshelf,Furniture,3,180,540,0,3.7
+1106,2023-11-10,Xiao Ming,30,Male,Asia,China,Gaming PC,Electronics,1,1800,1800,0,4.9
+1107,2023-11-13,Natalie Ross,27,Female,North America,Canada,Wireless Mouse,Accessories,6,45,270,5,4.0
+1108,2023-11-16,Tariq Hussain,38,Male,Middle East,Pakistan,4K Monitor,Electronics,2,450,900,0,4.6
+1109,2023-11-19,Elena Barros,33,Female,South America,Chile,Mechanical Keyboard,Accessories,2,95,190,0,4.7
+1110,2023-11-22,Babatunde Adeyemi,44,Male,Africa,Nigeria,Laptop Pro 15,Electronics,3,1200,3600,10,4.5
+1111,2023-11-25,Astrid Berg,29,Female,Europe,Norway,Tablet 10",Electronics,1,350,350,5,3.9
+1112,2023-11-28,Sunita Rao,36,Female,Asia,India,Standing Desk,Furniture,1,680,680,0,4.1
+1113,2023-12-01,Jake Anderson,25,Male,North America,USA,Wireless Earbuds,Electronics,7,85,595,5,4.2
+1114,2023-12-04,Miriam Gebru,31,Female,Africa,Ethiopia,Gaming Mouse,Accessories,3,60,180,0,4.3
+1115,2023-12-07,Andrei Popescu,42,Male,Europe,Romania,Ergonomic Chair,Furniture,2,420,840,8,4.2
+1116,2023-12-10,Yuna Choi,26,Female,Asia,South Korea,Smartphone X12,Electronics,2,999,1998,0,4.8
+1117,2023-12-13,Luis Castillo,39,Male,South America,Mexico,Webcam HD,Accessories,4,75,300,0,4.4
+1118,2023-12-16,Fatima Malik,28,Female,Middle East,UAE,Office Chair,Furniture,3,320,960,10,3.8
+1119,2023-12-19,Henry Carter,45,Male,North America,USA,Gaming PC,Electronics,1,1800,1800,0,4.9
+1120,2023-12-22,Blessing Okonkwo,24,Female,Africa,Nigeria,Bookshelf,Furniture,2,180,360,0,3.7
